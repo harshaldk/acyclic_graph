@@ -1,4 +1,4 @@
-# acyclic_graph
+# determine if the graph is acyclic
 Question_1: Python code to read the edge-weighted diagraph available at http://vlado.fmf.uni-lj.si/pub/networks/data/esna/flying.htm
 (48 vertices, 353 valued arcs) and to determine whether it is acyclic. 
 
